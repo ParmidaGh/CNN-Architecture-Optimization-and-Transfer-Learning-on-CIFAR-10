@@ -30,10 +30,17 @@ The project progresses from a custom CNN baseline to controlled architectural an
 
 ## Abstract
 
+<div align="justify">
+
 Image classification performance depends on more than simply increasing model complexity. Architectural depth, normalization, regularization, optimization settings, activation functions, and training configuration can substantially affect how effectively a convolutional neural network learns visual representations.
-This project conducts a controlled experimental study on CIFAR-10 using PyTorch. A custom CNN serves as the baseline model, followed by a sequence of experiments examining early stopping, dropout regularization, network depth, batch normalization, learning rate, activation functions, batch size, feature-map representations, prediction behavior, confusion matrices, and optimizer configuration.
+
+This project conducts a controlled experimental study on CIFAR-10 using PyTorch. A custom CNN serves as the baseline model, followed by a systematic sequence of experiments examining early stopping, dropout regularization, network depth, batch normalization, learning rate, activation functions, batch size, feature-map representations, prediction behavior, confusion matrices, and optimizer configurations.
+
 The study is further extended through transfer learning with pretrained ResNet50 and VGG19 models. Their convolutional feature extractors are frozen and adapted to the ten-class CIFAR-10 classification task through modified classification heads.
+
 The resulting collection of experiments provides a practical investigation of CNN training dynamics, model architecture, generalization, visual representation learning, and transfer learning for image classification.
+
+</div>
 
 ## Table of Contents
 
