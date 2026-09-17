@@ -15,25 +15,15 @@ The project progresses from a custom CNN baseline to controlled architectural an
 <div align="left">
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
-
 [![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
-
 [![TorchVision](https://img.shields.io/badge/TorchVision-Computer_Vision-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/vision/stable/)
-
 [![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
-
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
-
 [![Scikit--learn](https://img.shields.io/badge/Scikit--learn-Evaluation-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
-
 [![CIFAR-10](https://img.shields.io/badge/Dataset-CIFAR--10-0891B2?style=flat)](https://www.cs.toronto.edu/~kriz/cifar.html)
-
 [![Computer Vision](https://img.shields.io/badge/Domain-Computer_Vision-7C3AED?style=flat)](#)
-
 [![Deep Learning](https://img.shields.io/badge/Domain-Deep_Learning-2563EB?style=flat)](#)
-
 [![Transfer Learning](https://img.shields.io/badge/Technique-Transfer_Learning-0F766E?style=flat)](#)
-
 [![License](https://img.shields.io/badge/License-MIT-4B5563?style=flat)](https://opensource.org/licenses/MIT)
 
 </div>
