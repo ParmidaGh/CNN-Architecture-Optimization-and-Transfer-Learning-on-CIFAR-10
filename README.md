@@ -1,5 +1,7 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:2563eb,100:06b6d4&height=220&section=header&text=CIFAR-10%20CNN%20Architecture%2C%20Optimization%20%26%20Transfer%20Learning&fontSize=32&fontColor=ffffff&fontAlignY=50&animation=fadeIn"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=CIFAR-10%20CNN%20Image%20Classification&fontSize=34&fontColor=ffffff&fontAlignY=50&animation=fadeIn" width="100%"/>
+
 </div>
 
 ---
@@ -12,17 +14,17 @@ The project progresses from a custom CNN baseline to controlled architectural an
 
 <div align="left">
 
-[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat\&logo=python\&logoColor=white)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.8%2B-3776AB?style=flat&logo=python&logoColor=white)](https://www.python.org/)
 
-[![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)](https://pytorch.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Deep_Learning-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/)
 
-[![TorchVision](https://img.shields.io/badge/TorchVision-Computer_Vision-EE4C2C?style=flat\&logo=pytorch\&logoColor=white)](https://pytorch.org/vision/stable/)
+[![TorchVision](https://img.shields.io/badge/TorchVision-Computer_Vision-EE4C2C?style=flat&logo=pytorch&logoColor=white)](https://pytorch.org/vision/stable/)
 
-[![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=flat\&logo=numpy\&logoColor=white)](https://numpy.org/)
+[![NumPy](https://img.shields.io/badge/NumPy-Numerical_Computing-013243?style=flat&logo=numpy&logoColor=white)](https://numpy.org/)
 
-[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat\&logo=matplotlib\&logoColor=white)](https://matplotlib.org/)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=flat&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
 
-[![Scikit--learn](https://img.shields.io/badge/Scikit--learn-Evaluation-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)](https://scikit-learn.org/)
+[![Scikit--learn](https://img.shields.io/badge/Scikit--learn-Evaluation-F7931E?style=flat&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
 
 [![CIFAR-10](https://img.shields.io/badge/Dataset-CIFAR--10-0891B2?style=flat)](https://www.cs.toronto.edu/~kriz/cifar.html)
 
