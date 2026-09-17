@@ -6,7 +6,7 @@
 
 ---
 
-# CIFAR-10 Image Classification with CNNs: Architecture, Optimization, and Transfer Learning
+# Image Classification with CNNs on CIFAR-10: Architecture, Optimization, and Transfer Learning
 
 This project presents a systematic deep learning study of image classification on the CIFAR-10 dataset using PyTorch. It investigates how convolutional neural network design choices, regularization strategies, optimization settings, activation functions, batch size, and transfer learning affect classification performance.
 
